@@ -416,7 +416,7 @@ Then repeat Steps 3–5.
 
 | Source | URL | Description |
 |---|---|---|
-| CivitAI | [civitai.com](https://civitai.com) | Community models (enable NSFW in account settings) |
+| CivitAI | [civitai.com](https://civitai.com) | Community models |
 | Hugging Face | [huggingface.co](https://huggingface.co) | Official model hub |
 | SDXL VAE | [stabilityai/sdxl-vae](https://huggingface.co/stabilityai/sdxl-vae) | Recommended VAE for all SDXL-based models |
 
